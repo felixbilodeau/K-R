@@ -1,0 +1,7 @@
+This is a	test file
+
+with a bunch	of words and	characters
+
+and lines, which we	need to test using wc
+
+as well as	 our version

@@ -1,0 +1,10 @@
+The question asks: How would you test the word count program? What kinds of input
+are most likely to uncover bugs if there are any?
+
+I would say to test the program, I would use a text that I already know the
+number of words, lines and characters to, and then use that as the input to
+the program, and match the outputs
+
+For the kinds of inputs that may uncover bugs, we need to check boundary conditions,
+like an empty input, a single word, a line not ended by \n, just a bunch of spaces,
+stuff like that

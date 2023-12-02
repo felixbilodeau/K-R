@@ -1,0 +1,5 @@
+This is a test file with a few lines
+
+I am	testing this to know	if the program works
+
+This should return 26 blanks
